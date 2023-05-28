@@ -1,0 +1,14 @@
+{
+    "workbench.editor.untitled.hint": "hidden",
+    "window.menuBarVisibility": "visible",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0.85,
+    "editor.cursorBlinking": "solid",
+    "terminal.external.linuxExec": "/usr/bin/alacritty",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "workbench.colorTheme": "One Dark Theme",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#2880f48a",
+        "editor.selectionHighlightBackground": "#5d89d0"
+    },
+}

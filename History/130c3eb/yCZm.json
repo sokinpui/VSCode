@@ -1,0 +1,11 @@
+{
+    "workbench.editor.untitled.hint": "hidden",
+    "window.menuBarVisibility": "visible",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0.85,
+    "editor.cursorBlinking": "solid",
+    "workbench.colorTheme": "One Dark Theme",
+    "terminal.external.linuxExec": "/usr/bin/alacritty",
+    "terminal.explorerKind": "external",
+    "terminal.integrated.automationProfile.linux": {}
+}

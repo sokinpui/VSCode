@@ -1,0 +1,20 @@
+{
+    "workbench.editor.untitled.hint": "hidden",
+    "window.menuBarVisibility": "visible",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0.85,
+    "editor.cursorBlinking": "solid",
+    "terminal.external.linuxExec": "/usr/bin/alacritty",
+    "terminal.integrated.defaultProfile.linux": "zsh",
+    "workbench.colorCustomizations": {
+        "editor.selectionBackground": "#006eff55",
+        "editor.selectionHighlightBackground": "#5d89d0",
+        "editorCursor.background": "#000000",
+        "editorCursor.foreground": "#ffffff",
+        "terminalCursor.background": "#000000"
+        "terminalCursor.foreground": "#ffffff"
+    },
+    "explorer.confirmDelete": false,
+    "redhat.telemetry.enabled": true,
+    "workbench.colorTheme": "One Dark Theme",
+}

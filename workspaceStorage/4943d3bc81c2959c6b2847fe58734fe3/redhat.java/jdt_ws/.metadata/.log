@@ -1,0 +1,93 @@
+!SESSION 2023-05-15 21:49:14.215 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.7
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -data /home/so/.config/Code/User/workspaceStorage/4943d3bc81c2959c6b2847fe58734fe3/redhat.java/jdt_ws
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:16.604
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:16.808
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:16.874
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:16.876
+!MESSAGE Initializing Java Language Server 1.23.0.202304270334
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.010
+!MESSAGE Setting java.home /usr/lib/jvm/java-17-openjdk-17.0.6.0.10-1.fc38.x86_64 as default global VM
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.021
+!MESSAGE Default VM Install changed from  1684158557997-/home/so/.vscode/extensions/redhat.java-1.18.0-linux-x64/jre/17.0.7-linux-x86_64 to 1684158558009-/usr/lib/jvm/java-17-openjdk-17.0.6.0.10-1.fc38.x86_64
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.034
+!MESSAGE JVM Runtimes changed, saving new configuration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.044
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.044
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.navigate.openTypeHierarchy, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.resolveStackTraceLocation, java.project.getAll, java.reloadBundles, java.project.isTestFile, java.edit.handlePasteEvent, java.project.getClasspaths, java.navigate.resolveTypeHierarchy, java.edit.stringFormatting, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveWorkspaceSymbol, java.project.upgradeGradle, java.decompile, java.project.createModuleInfo, java.protobuf.generateSources, java.project.resolveSourceAttachment, java.project.addToSourcePath, java.completion.onDidSelect]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.052
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.106
+!MESSAGE ProjectRegistryRefreshJob finished 53ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.133
+!MESSAGE Started org.eclipse.buildship.core 27ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.140
+!MESSAGE RepositoryRegistryUpdateJob finished 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.161
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.162
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.256
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.720
+!MESSAGE Workspace initialized in 581ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.776
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.780
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:18.783
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:19.119
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:57.468
+!MESSAGE Installed reference:file:/home/so/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30/dist/com.microsoft.jdtls.intellicode.core-0.7.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:57.491
+!MESSAGE Started reference:file:/home/so/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.30/dist/com.microsoft.jdtls.intellicode.core-0.7.0.jar
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:57.497
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-15 21:49:57.498
+!MESSAGE Non-Static Commands: [java.intellicode.enable]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-16 12:56:02.251
+!MESSAGE >> shutdown
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-16 12:56:02.260
+!MESSAGE >> exit
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-16 12:56:02.281
+!MESSAGE Shutdown received... waking up main thread
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2023-05-16 12:56:02.287
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is stopping:

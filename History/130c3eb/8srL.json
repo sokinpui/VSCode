@@ -1,0 +1,10 @@
+{
+    "workbench.editor.untitled.hint": "hidden",
+    "window.menuBarVisibility": "visible",
+    "window.titleBarStyle": "custom",
+    "window.zoomLevel": 0.85,
+    "editor.cursorBlinking": "solid",
+    "workbench.colorTheme": "One Dark Theme",
+    "terminal.external.linuxExec": "zsh",
+    "terminal.explorerKind": "external"
+}
